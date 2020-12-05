@@ -1,6 +1,15 @@
 # SafeSpace App
 
+## Description
+
+SafeSpace is an application enabling users to search businesses and review them based off how COVID-19 compliant they are. With SafeSpace, users will not have to worry about the credibility of an establishment when visiting. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Uses Express server handling with yelp-fusion api and pg postgres-database.
+
+## Collaborators 
+- Daniel Schaefer
+- Ian Laksono
+- Andrew Markham
 
 ## Front-End Frameworks:
 - Material-UI v4.11.0
@@ -45,12 +54,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 !["Profile Page"](https://github.com/ilaksono/safe-space/blob/master/ssdocs/profile-page.jpg)
 !["Search Page"](https://github.com/ilaksono/safe-space/blob/master/ssdocs/search-page.jpg)
 
-
-### Deployment
-
-Deployed on netlify:
-https://safespace-a.netlify.app/
-
-API deployed on heroku: 
-https://safespace-laksono.herokuapp.com/
 
